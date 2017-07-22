@@ -15,4 +15,4 @@ I perform alternating optimization, using projected gradient descent with adapti
 
 The main code is Q1 code. But to run that you also need other codes of OMP.m , rrmse.m, NNSC.m, psnr.m.
 
-To illustrate I have carried out the expirement on an image peppers256.png. I have added poison noise to the image and the performed the poison denoising on it. The reults are shown in output images.
+To illustrate I have carried out the expirement on an image peppers256.png. I have added poison noise to the image and the performed the poison denoising on it. The reults are shown in output images 30.png, 60.png, 100.png with peak values of 30, 60, 100 respectively.
